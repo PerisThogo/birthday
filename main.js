@@ -10,7 +10,7 @@ $(document).ready(function() {
             $(this).addClass("puff-bubble");
         });
         $("#glow").remove();
-        txt.hide().html("i wish you a happy birthday may 34 come with lots and lots of blessings ").delay(750).fadeIn(300);
+        txt.hide().html("i wish you a happy birthday may 34 come with lots and lots of blessings Happy birthday, sis! I was going to get you the best gift ever… but then I remembered you already have me! ").delay(750).fadeIn(300);
         $("#candle").animate(
             {
             opacity: ".5"
